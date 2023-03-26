@@ -5,7 +5,7 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 
 💼 Experiences
 - [2016-2020]🎉 I received my B.E. degree in Software Engineering at University of Electronic Science and Technology of China(UESTC).
-- [2020-Now]💪 I‘m pursuing a M.S. in Computer Science at Renmin University of China(RUC), advised by Prof. <a href='https://scholar.google.com/citations?user=6m-ZQ1EAAAAJ&hl=zh-CN'>Xirong Li</a>. I have been a Research Intern at SenseTime. Now I'm working as a Research Intern at Kwai.
+- [2020-2023]💪 I‘m pursuing a M.S. in Computer Science at Renmin University of China(RUC), advised by Prof. <a href='https://scholar.google.com/citations?user=6m-ZQ1EAAAAJ&hl=zh-CN'>Xirong Li</a>. I have been a Research Intern at SenseTime. Now I'm working as a Research Intern at Kwai.
 
 
 🔭 Research Interests
@@ -13,6 +13,20 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 - 🔍 Cross-Modal Retrieval
 - 🔄 Domain Adaptation
 - 🤔 ...
+
+🤺 Competitions
+- <a href='https://tianchi.aliyun.com/competition/entrance/531812/introduction'>Alibaba Tianchi: Detection of Tampered Images</a>. Rank 16/1666(Top 1%).
+- <a href='https://trecvid.nist.gov/'>2022 NIST TREC Video Retrieval Evaluation: Adhoc Video Search Task.</a> Rank 2. <a href='https://arxiv.org/abs/2211.15039'>Note</a>.
+- <a href='http://cvpr2023.ug2challenge.org/program22/leaderboard22_t2.html'> 2022 CVPR WorkShop Challenge: SemiSupervised Action Recognition In The Dark. </a> Rank 2. <a href='https://github.com/Andy1621/Nightcrawler'>Poster</a>.
+- <a href='http://cvpr2023.ug2challenge.org/program22/leaderboard22_t2.html'> 2022 CVPR WorkShop Challenge：AICITY Naturalistic Driving Action Recognition. </a> Rank 9. <a href='https://ieeexplore.ieee.org/abstract/document/9927603/'>Note</a>.
+
+
+📚 Papers
+- Jie Wang, **Kaibin Tian**, Dayong Ding, Gang Yang and Xirong Li. <a href='https://dl.acm.org/doi/abs/10.1145/3448108'>Unsupervised Domain Expansion for Visual Categorization</a>. In ACM Transactions on Multimedia Computing, Communications and Applications (TOMM) 2021.
+- **Kaibin Tian**, Qijie Wei, Xirong Li. <a href='https://arxiv.org/abs/2204.01210'>Co-Teaching for Unsupervised Domain Adaptation and Expansion</a>. In arXiv 2022.
+
+
+
 
 | <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheEighthDay&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="TheEighthDay's github stats" /></a> | <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEighthDay&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |

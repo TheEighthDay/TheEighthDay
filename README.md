@@ -5,13 +5,15 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 
 💼 Experiences
 - [2016-2020]🎉 I received my B.E. degree in Software Engineering at University of Electronic Science and Technology of China(UESTC).
-- [2020-2023]💪 I‘m pursuing a M.S. in Computer Science at <a href='https://ruc-aimc-lab.github.io/'>AIMC Lab</a> of Renmin University of China(RUC), advised by Prof. <a href='https://scholar.google.com/citations?user=6m-ZQ1EAAAAJ&hl=zh-CN'>Xirong Li</a>. I have been a Research Intern at SenseTime. Now I'm working as a Research Intern at Kwai.
+- [2020-2023] I‘m pursuing a M.S. in Computer Science at <a href='https://ruc-aimc-lab.github.io/'>AIMC Lab</a> of Renmin University of China(RUC), advised by Prof. <a href='https://scholar.google.com/citations?user=6m-ZQ1EAAAAJ&hl=zh-CN'>Xirong Li</a>. I have been a Research Intern at SenseTime and Kwai.
+- [2023-] Now I'm working as a Algorithm Engineer at Kwai.
 
 
 🔭 Research Interests
 - 📹 Video Understanding
 - 🔍 Cross-Modal Retrieval
 - 🔄 Domain Adaptation
+- 🔥 Large Language Model 
 - 🤔 ...
 
 🤺 Competitions
@@ -24,6 +26,8 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 📚 Papers
 - Jie Wang, **Kaibin Tian**, Dayong Ding, Gang Yang and Xirong Li. <a href='https://dl.acm.org/doi/abs/10.1145/3448108'>Unsupervised Domain Expansion for Visual Categorization</a>. In ACM Transactions on Multimedia Computing, Communications and Applications (TOMM) 2021. <a href='https://github.com/TheEighthDay/ude'>Code</a>.
 - **Kaibin Tian**, Qijie Wei, Xirong Li. <a href='https://arxiv.org/abs/2204.01210'>Co-Teaching for Unsupervised Domain Adaptation and Expansion</a>. In arXiv 2022. <a href='https://github.com/TheEighthDay/Co-teaching'>Code</a>.
+- Aozhu Chen, Ziyuan Wang, Chengbo Dong, **Kaibin Tian**, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2305.05880.pdf'>ChinaOpen: A Dataset for Open-world Multimodal Learning</a>. In ACMMM 2023.
+- **Kaibin Tian**, Ruixiang Zhao, Hu Hu, Runquan Xie, Fengzong Lian, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2308.01217.pdf'>TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval</a>.  In arXiv 2023.
 
 
 

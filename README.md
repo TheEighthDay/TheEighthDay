@@ -17,7 +17,7 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 - 🤔 ...
 
 🤺 Competitions
-- <a href='https://tianchi.aliyun.com/competition/entrance/531812/introduction'>Alibaba Tianchi: Detection of Tampered Images</a>. Rank 16/1666(Top 1%).
+- <a href='https://tianchi.aliyun.com/competition/entrance/531945/information'>Alibaba Tianchi: Detection of Tampered Images</a>. Rank 16/1666(Top 1%).
 - <a href='https://trecvid.nist.gov/'>2022 NIST TREC Video Retrieval Evaluation: Adhoc Video Search Task.</a> Rank 2. <a href='https://arxiv.org/abs/2211.15039'>Note</a>.
 - <a href='http://cvpr2023.ug2challenge.org/program22/leaderboard22_t2.html'> 2022 CVPR WorkShop Challenge: SemiSupervised Action Recognition In The Dark. </a> Rank 2. <a href='https://github.com/Andy1621/Nightcrawler'>Poster</a>. <a href='https://github.com/TheEighthDay/Nightcrawler'>Code</a>.
 - <a href='http://cvpr2023.ug2challenge.org/program22/leaderboard22_t2.html'> 2022 CVPR WorkShop Challenge：AICITY Naturalistic Driving Action Recognition. </a> Rank 9. <a href='https://ieeexplore.ieee.org/abstract/document/9927603/'>Note</a>. <a href='https://github.com/TheEighthDay/AICITY_HSNB'>Code</a>.

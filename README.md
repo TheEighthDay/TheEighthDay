@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> **Kaibin Tian** </a> ✨, an algorithm engineer at Kwai. Email📧 : tikibi@foxmail.com.
+I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> **Kaibin Tian** </a> ✨, an algorithm engineer at Kuaishou. Email📧 : tikibi@foxmail.com.
 
 
 💼 Experiences

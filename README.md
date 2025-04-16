@@ -24,7 +24,7 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 
 
 📚 Papers
-- Fukun Ma, **Kaibin Tian**, JietingXue, Xiaoyi Wang, Ye Ma, Quan Chen, Peng Jiang, Lijie Wen. Instruction Bootstrapped Preference Optimization: Improving Model Alignment with a Better Instruction. Under Review.
+- Fukun Ma, **Kaibin Tian**, JietingXue, Xiaoyi Wang, Ye Ma, Quan Chen, Peng Jiang, Lijie Wen. Instruction Bootstrapped Preference Optimization: Improving Model Alignment with a Better Instruction. 2025. Under Review.
 - Jie Wang, **Kaibin Tian**, Dayong Ding, Gang Yang and Xirong Li. <a href='https://dl.acm.org/doi/abs/10.1145/3448108'>Unsupervised Domain Expansion for Visual Categorization</a>. In ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)(CCF-B) 2021. <a href='https://github.com/TheEighthDay/ude'>Code</a>.
 - **Kaibin Tian**, Qijie Wei, Xirong Li. <a href='https://arxiv.org/abs/2204.01210'>Co-Teaching for Unsupervised Domain Adaptation and Expansion</a>. In arXiv 2022. <a href='https://github.com/TheEighthDay/Co-teaching'>Code</a>.
 - Aozhu Chen, Ziyuan Wang, Chengbo Dong, **Kaibin Tian**, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2305.05880.pdf'>ChinaOpen: A Dataset for Open-world Multimodal Learning</a>. In ACMMM(CCF-A) 2023. <a href='https://github.com/JewelChen2019/ChinaOpen'>Code</a>.

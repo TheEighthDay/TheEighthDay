@@ -25,11 +25,12 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 
 📚 Papers
 - Fukun Ma, **Kaibin Tian**, JietingXue, Xiaoyi Wang, Ye Ma, Quan Chen, Peng Jiang, Lijie Wen. Instruction Bootstrapped Preference Optimization: Improving Model Alignment with a Better Instruction. 2025. Under Review.
-- Jie Wang, **Kaibin Tian**, Dayong Ding, Gang Yang and Xirong Li. <a href='https://dl.acm.org/doi/abs/10.1145/3448108'>Unsupervised Domain Expansion for Visual Categorization</a>. In ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)(CCF-B) 2021. <a href='https://github.com/TheEighthDay/ude'>Code</a>.
-- **Kaibin Tian**, Qijie Wei, Xirong Li. <a href='https://arxiv.org/abs/2204.01210'>Co-Teaching for Unsupervised Domain Adaptation and Expansion</a>. In arXiv 2022. <a href='https://github.com/TheEighthDay/Co-teaching'>Code</a>.
-- Aozhu Chen, Ziyuan Wang, Chengbo Dong, **Kaibin Tian**, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2305.05880.pdf'>ChinaOpen: A Dataset for Open-world Multimodal Learning</a>. In ACMMM(CCF-A) 2023. <a href='https://github.com/JewelChen2019/ChinaOpen'>Code</a>.
 - **Kaibin Tian**, Ruixiang Zhao, Hu Hu, Runquan Xie, Fengzong Lian, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2308.01217.pdf'>TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval</a>.  In CVPR(CCF-A) 2024. <a href='https://github.com/ruc-aimc-lab/TeachCLIP'>Code</a>
 - **Kaibin Tian**, Yanhua Cheng, Yi Liu, Xinglin Hou, Quan Chen, Han Li. <a href='https://arxiv.org/abs/2401.00701'>Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning</a>.  In AAAI(CCF-A) 2024. <a href='https://github.com/adxcreative/EERCF'>Code</a>
+- Aozhu Chen, Ziyuan Wang, Chengbo Dong, **Kaibin Tian**, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. <a href='https://arxiv.org/pdf/2305.05880.pdf'>ChinaOpen: A Dataset for Open-world Multimodal Learning</a>. In ACMMM(CCF-A) 2023. <a href='https://github.com/JewelChen2019/ChinaOpen'>Code</a>.
+- **Kaibin Tian**, Qijie Wei, Xirong Li. <a href='https://arxiv.org/abs/2204.01210'>Co-Teaching for Unsupervised Domain Adaptation and Expansion</a>. In arXiv 2022. <a href='https://github.com/TheEighthDay/Co-teaching'>Code</a>.
+- Jie Wang, **Kaibin Tian**, Dayong Ding, Gang Yang and Xirong Li. <a href='https://dl.acm.org/doi/abs/10.1145/3448108'>Unsupervised Domain Expansion for Visual Categorization</a>. In ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)(CCF-B) 2021. <a href='https://github.com/TheEighthDay/ude'>Code</a>.
+
 
 
 

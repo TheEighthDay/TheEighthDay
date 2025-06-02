@@ -36,6 +36,6 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 
 
 
-| <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheEighthDay&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="TheEighthDay's github stats" /></a> | <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEighthDay&layout=compact&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheEighthDay&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="TheEighthDay's github stats" /></a> | <a href="https://github.com/TheEighthDay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEighthDay&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 

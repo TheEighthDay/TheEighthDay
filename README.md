@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> **Kaibin Tian** </a> ✨, an algorithm engineer. Email📧 : tikibi@foxmail.com.
+I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> **Kaibin Tian** </a> ✨, an algorithm engineer at TikTok. Email📧 : tikibi@foxmail.com.
 
 
 💼 Experiences
 - [2016-2020]🎉 I received my B.E. degree in Software Engineering at University of Electronic Science and Technology of China(UESTC).
 - [2020-2023] I received my M.S. in Computer Science at <a href='https://ruc-aimc-lab.github.io/'>AIMC Lab</a> of Renmin University of China(RUC), advised by Prof. <a href='https://scholar.google.com/citations?user=6m-ZQ1EAAAAJ&hl=zh-CN'>Xirong Li</a>. I have been a Research Intern at SenseTime and Kuaishou Technology.
 - [2023-2025] I worked as an Algorithm Engineer at Kuaishou Technology.
-- [2025-] A new journey.
+- [2025-] I work at TikTok.
 
 
 🔭 Research Interests

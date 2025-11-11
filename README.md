@@ -13,8 +13,8 @@ I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
 🔭 Research Interests
 - 📹 Video Understanding
 - 🔍 Cross-Modal Retrieval
-- 🔄 Domain Adaptation
-- 🔥 Large Language Model 
+- 🪜 Reinforce Learning
+- 🔥 Multimodal Large Language Model 
 - 🤔 ...
 
 🤺 Competitions

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ✨ <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> **Kaibin Tian** </a> ✨, an algorithm engineer at TikTok. Email📧 : tikibi@foxmail.com.
+I'm ✨ <a href='https://theeighthday.github.io/'> **Kaibin Tian** </a> ✨, an algorithm engineer at TikTok. Email📧 : tikibi@foxmail.com. <a href='https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ'> Google Scholar</a>.
 
 
 💼 Experiences
